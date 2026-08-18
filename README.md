@@ -1,1 +1,1 @@
-Merge Defense legal pages: Terms of Service (terms.html) and Privacy Policy (privacy.html). Published with GitHub Pages. Contact: danko9172@gmail.com
+Merge Defense: Army Behind the Wall — legal pages: Terms of Service (terms.html) and Privacy Policy (privacy.html). Developer: DudaGames — IE Konev Daniil Alexandrovich (Russian Federation). Published with GitHub Pages. Contact: konev.danKo@gmail.com
